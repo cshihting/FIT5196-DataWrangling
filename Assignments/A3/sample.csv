@@ -1,0 +1,5 @@
+,property_id,lat,lng,addr_street,suburb,price,property_type,year,bedrooms,bathrooms,parking_space,shopping_center_id,distance_to_sc,train_station_id,distance_to_train_station,travel_min_to_CBD,transfer_flag,hospital_id,distance_to_hospital,supermarket_id,distance_to_supermaket
+0,0,-37.81110764,144.9714661,1001/16 Liverpool Street,Melbourne,6409000,house,2009,2,1,1,SC_008,165,19843,127,9,1,hospital_125,451,S_033,564
+1,1,-37.814996,144.966029,1003/115 Swanston Street,Melbourne,5760000,house,2010,2,1,0,SC_106,178,19854,377,0,0,hospital_185,63,S_033,122
+2,2,-37.816791,144.959971,1004/422 Collins Street,Melbourne,4680000,house,2016,1,1,0,SC_014,360,19841,655,8,1,hospital_022,456,S_118,351
+3,3,-37.804474,144.958203,101/591 Elizabeth Street,Melbourne,1413000,house,2010,1,1,0,SC_007,1001,19842,719,8,1,hospital_187,423,S_044,745
